@@ -1,10 +1,17 @@
-- 👋 OLá, me chamo Gabriel Carvalho
-- 👀 Estou interessado em trabalhar na area de desenvolvimento web, desde a criação dos bancos de dados ao fron-end
-- 🌱 Estou aprendendo atualmente sobre o GIT e GITHUB
-- 💞️ Eu pretendo colaborar com projetos de Python, JS, HTML e CSS
-- 📫 Para entrar em contato comigo, mande uma DM no instagram @gabriel_fcarvalho_
+<div align="center">
+  <a href="https://github.com/segabrielcarvalho">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=segabrielcarvalho&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segabrielcarvalho&theme=highcontrast&hide_border=false&&layout=compact"/>
+  </a>
+<div align="center" valign="top"><br> 
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div><br>
 
-<!---
-segabrielcarvalho/segabrielcarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
